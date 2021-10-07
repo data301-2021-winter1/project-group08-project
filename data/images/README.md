@@ -1,0 +1,1 @@
+Any screenshots and photos related to the project that provides visual help and understanding will be on this directory.
