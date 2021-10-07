@@ -1,3 +1,3 @@
 # Processed Data Folder
 
-- `processed` - You can place cleaned up, and processed data files in this directory.
+- `processed` - Cleaned up data with only required columns and rows will be in this directory.
