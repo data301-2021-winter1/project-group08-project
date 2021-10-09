@@ -1,3 +1,1 @@
-# Raw Data Folder
-
-- `raw` - raw data should go in this directory; you should add the original source file here. Always keep the original data file without editing.
+This repository has all of our raw data which means that it has not been sorted through to take out any data we do not need
