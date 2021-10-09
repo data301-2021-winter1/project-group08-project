@@ -19,7 +19,7 @@ All data was made available by Kaggle Inc. on their website. The data sets conta
 ## Team Members
 
 - Utkarsh Agarwal: I'm a second year student in the Faculty of Sciences at UBCO and am majoring in Economics.
-- Person 2: one sentence about you!
+- Colin Millette: I'm a third year student majoring in Earth and Environmental Sciences
 - Person 3: one sentence about you!
 
 ## Images
