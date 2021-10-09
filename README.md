@@ -14,7 +14,7 @@ We are choosing to work on Cryptocurrency as a topic. Our interest on this topic
 
 ## Describe your dataset in about 150-200 words
 
-All data was made available by Kaggle Inc. on their website. The data sets contain seven parameters namely: Price, Open price, Closing Price, High, Low, Trade Volume and Change %. The data acquired ranges from  Aug 7, 2015 to Jul 26, 2021. The Ethereum dataset was collected by Arpit Verma via downloads from the yahoo finance website and the Bitcoin dataset was scrapped from investing.com by Kash.
+All data was made available by Kaggle Inc. on their website. The data sets contain seven parameters namely: Price, Open price, Closing Price, High, Low, and Trade Volume. The data acquired ranges from  Aug 7, 2015 to Jul 26, 2021. The Ethereum dataset was collected by Arpit Verma via downloads from the yahoo finance website and the Bitcoin dataset was scrapped from investing.com by Kash.
 
 ## Team Members
 
