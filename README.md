@@ -9,8 +9,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Describe your topic/interest in about 150-200 words
 
-{Add your stuff here}
-
+We are choosing to work on Cryptocuurency as a topic. Our interest on this topic is to compare Bitcoin and Ethereum cryptocurrency's datasets to find out a pattern between price movements between Bitcoin and altcoins on the different price trends. There is a lack of understanding as to what is the reasoning behind exponential rise in prices on altcoins. Cryptocurrency's has a promissing future for becoming an alternative currency to the dollar but there is a lot of speculations and unkonws about what are the real usage of the cryptocurrency's. Because it is still a developping field, prices of the currency's are extremely volity. Most of the investers who want to invest in the field choosing bitcoin as a option. Bitcoin has around half of total marketcap of all the cryptocurrency's and because of its big marketcap it has a lot less volitalty compare the other coins and it dictates the ovarall status of cryptocurrency's. Looking at the previous data collected between bitcoin and ethereum we are hoping to find out a regular occurence of a same price change relation between Bitcoin and Ethereum on different price trends (Ex: Everytime bitcoin's price drops 20 percent, Ethereum drops 40 to 50 percent). With the results from this data we can make an investment strategies and logical guesses for the future of the cryptocurrency's.
 ## Describe your dataset in about 150-200 words
 
 {Add your stuff here}
