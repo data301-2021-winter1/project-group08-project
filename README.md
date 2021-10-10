@@ -1,5 +1,5 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=5843168&assignment_repo_type=AssignmentRepo)
-# Group YYY - {Short snappy Title of your project}
+
+# Group 08 - {Historical Analysis between Bitcoin and Etherium}
 
 - Your title can change over time.
 
@@ -12,13 +12,13 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 We are choosing to work on Cryptocuurency as a topic. Our interest on this topic is to compare Bitcoin and Ethereum cryptocurrency's datasets to find out a pattern between price movements between Bitcoin and altcoins on the different price trends. There is a lack of understanding as to what is the reasoning behind exponential rise in prices on altcoins. Cryptocurrency's has a promissing future for becoming an alternative currency to the dollar but there is a lot of speculations and unkonws about what are the real usage of the cryptocurrency's. Because it is still a developping field, prices of the currency's are extremely volity. Most of the investers who want to invest in the field choosing bitcoin as a option. Bitcoin has around half of total marketcap of all the cryptocurrency's and because of its big marketcap it has a lot less volitalty compare the other coins and it dictates the ovarall status of cryptocurrency's. Looking at the previous data collected between bitcoin and ethereum we are hoping to find out a regular occurence of a same price change relation between Bitcoin and Ethereum on different price trends (Ex: Everytime bitcoin's price drops 20 percent, Ethereum drops 40 to 50 percent). With the results from this data we can make an investment strategies and logical guesses for the future of the cryptocurrency's.
 ## Describe your dataset in about 150-200 words
 
-{Add your stuff here}
+All data was made available by Kaggle Inc. on their website. The data sets contain seven parameters namely: Price, Open price, Closing Price, High, Low, and Trade Volume. The data acquired ranges from  Aug 7, 2015 to Jul 26, 2021. The Ethereum dataset was collected by Arpit Verma via downloads from the yahoo finance website and the Bitcoin dataset was scrapped from investing.com by Kash.
 
 ## Team Members
 
-- Person 1: one sentence about you!
-- Person 2: one sentence about you!
-- Person 3: one sentence about you!
+- Utkarsh Agarwal: I'm a second year student in the Faculty of Sciences at UBCO and am majoring in Economics.
+- Colin Millette: I'm a third year student majoring in Earth and Environmental Sciences
+- Mete Cil: I'm a second year computer science student at UBCO
 
 ## Images
 
