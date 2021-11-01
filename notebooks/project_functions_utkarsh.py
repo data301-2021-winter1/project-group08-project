@@ -3,13 +3,24 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "ebb7a2e4-afd2-4369-adf1-47c32e860dbd",
+   "id": "17ca3d86-9b5b-4101-966d-1547dba68892",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "import pandas as pd\n",
+    "import numpy as np \n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "255d1889-4ef7-4f8d-ade5-ff4ca6e43f42",
    "metadata": {},
    "outputs": [],
    "source": [
     "def load_and_process_file1(data_path): \n",
     "    #method chain 1\n",
-    "    eth=(\n",
+    "   eth=(\n",
     "    pd.read_csv(data_path)\n",
     "      .dropna(axis=0)\n",
     "      .reindex(columns=[ 'Date', 'Open', 'Close', 'High', 'Low', 'Volume'])\n",
@@ -24,7 +35,7 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "430d6924-def0-41c7-a82a-d96ad52c1993",
+   "id": "d9522e03-a04a-449a-aa9b-6b7e924db3d5",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -82,7 +93,7 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "6348ca30-f312-4e04-9861-f23aefadaf40",
+   "id": "82b9b82b-c2d8-4b71-bf2a-bf4fb3e8a46a",
    "metadata": {},
    "outputs": [],
    "source": [
