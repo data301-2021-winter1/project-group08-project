@@ -1,1 +1,0 @@
-In this repository there will directories for both the raw data and for the processed data
